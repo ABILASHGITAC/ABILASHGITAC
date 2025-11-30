@@ -1,27 +1,43 @@
-Hi, I'm Abilash — Data Analyst & Python Developer & Powerbi developer 
-Welcome to my GitHub! I’m passionate about solving real-world problems using Data Analytics, Machine Learning, and Full Stack Development. I love turning raw data into actionable insights and deploying solutions that make an impact.
+# 👋 Hi, I'm Abilash  
+### Data Analyst | Python Developer | Power BI Developer
 
-About Me
+Welcome to my GitHub!  
+I’m passionate about transforming raw data into meaningful insights and building end-to-end analytical & full-stack solutions.
 
-Role: Data Analyst
-Currently Working On: WTT International Pvt Ltd, Tiruppur
-Location: Tiruppur
-Skills: Advanced Data Modeling, MSSQL, Python, Power BI, Excel, Flask, streamlit models, Frontend Tools, Auto Reports Generation, Data Injection and Extraction Using Python& SQL Queries.
-Core Strength: End-to-end project development — from data cleaning to deployment, Auto Report Generation
+---
 
-🛠️ Technical Skills
-Data Analytics & Visualization:
-Power BI (Data modeling, DAX, Import data from multiple sources, on-premises data gateway, Power BI app, publishing reports),  Advanced Excel (Data Cleaning, Pivot Tables, Dashboards), Matplotlib, plotly
+## 👨‍💻 About Me
+- **Role:** Data Analyst  
+- **Company:** WTT International Pvt Ltd, Tiruppur  
+- **Location:** Tiruppur, Tamil Nadu  
+- **Core Strength:** End-to-end project development (data cleaning → automation → deployment)  
+- **Expertise:** Auto Reports Generation, Data Injection & Extraction, Python + SQL Automation  
 
-Database Management:
-SQL, MySQL
+---
 
-Full Stack & Tools:
-HTML, CSS, JavaScript, React.js, Node.js, Flask, Streamlit, Jupyter Notebook, Git, GitHub
+## 🛠️ Technical Skills
 
-Soft Skills:
-Analytical Thinking, Problem Solving, Communication, Adaptability, Teamwork
+### 🔹 Data Analytics & Visualization
+- Power BI (Data Modeling, DAX, Gateways, Apps, Multiple Data Sources)  
+- Advanced Excel (Cleaning, Pivot Tables, Dashboards)  
+- Python Libraries: Matplotlib, Plotly  
+- Streamlit, Jupyter Notebook  
 
-🚀 Highlight Projects
+### 🔹 Database Management
+- SQL  
+- MySQL  
+- MSSQL Server  
+- ODBC Integrations  
 
-Multiple Disease Prediction ML-powered Streamlit app predicting Diabetes, Heart Disease & Parkinson’s with 92% accuracy.	
+### 🔹 Full Stack Development
+- HTML, CSS, JavaScript  
+- React.js, Node.js  
+- Flask, Streamlit  
+- Git, GitHub  
+
+### 🔹 Soft Skills
+- Analytical Thinking  
+- Problem Solving  
+- Communication  
+- Adaptability  
+- Teamwork  
