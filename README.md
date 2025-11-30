@@ -44,7 +44,8 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 - Teamwork  
 
 ### 🌐 Let's Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/heyitsabi.in/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abilash-analyst/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abilash.ai@outlook.com) 
-[GitHub](https://github.com/ABILASHGITAC)
-[Portfolio](https://yourportfolio.com)
-Mobile: +91 8608004509
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heyitsabi.in/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abilash-analyst/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abilash.ai@outlook.com)  
+[GitHub](https://github.com/ABILASHGITAC) • [Portfolio](https://yourportfolio.com) • 📱 +91 8608004509
+
