@@ -8,8 +8,9 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 
 ## 👨‍💻 About Me
 - **Role:** Data Analyst  
-- **Company:** WTT International Pvt Ltd, Tiruppur  
-- **Location:** Tiruppur, Tamil Nadu  
+- **Company:** WTT International Pvt Ltd, Tiruppur  | July 2024 (Present)
+- **Location:** Tiruppur, Tamil Nadu
+- **Education:** Bsc Computer Science , Professional diploma in Artificial intelligence and data science
 - **Core Strength:** End-to-end project development (data cleaning → automation → deployment)  
 - **Expertise:** Auto Reports Generation, Data Injection & Extraction, Python + SQL Automation  
 
